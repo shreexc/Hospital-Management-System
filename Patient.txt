@@ -1,0 +1,3 @@
+Sara|Smith|20|07012345678|B1 234|None|Jaundice
+Mike|Jones|37|07555551234|L2 2AB|Jone Carlos|Fever
+Jonas|Dohee|22|95165|1234|None|
